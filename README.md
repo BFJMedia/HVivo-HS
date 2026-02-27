@@ -8,6 +8,7 @@ This project uses the HubSpot CLI for local development.
 
 - **Account:** hvivo (ID: 147636634)
 - **Theme:** HVivo
+- **Developer:** BFJ Jess
 - **Repo:** https://github.com/BFJMedia/HVivo-HS
 
 ### Local development
